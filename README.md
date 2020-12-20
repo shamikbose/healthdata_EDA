@@ -1,2 +1,2 @@
 # healthdata_EDA
-Using CD data to build visualizations of healthcare situations in USA
+Using CDC data to build visualizations of healthcare situations in USA
